@@ -1,4 +1,4 @@
-const REMOVED_PLATES = [
+const THERMAL_REMOVED_PLATES = [
   "tin",
   "lead",
   "silver",
@@ -11,7 +11,7 @@ const REMOVED_PLATES = [
   "electrum",
 ];
 
-const REMOVED_GEARS = [
+const THERMAL_REMOVED_GEARS = [
   "tin",
   "lead",
   "silver",
@@ -27,7 +27,7 @@ const REMOVED_GEARS = [
   //"quartz"
 ];
 
-const REMOVED_NUGGETS = [
+const THERMAL_REMOVED_NUGGETS = [
   "tin",
   "lead",
   "silver",
