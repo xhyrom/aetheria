@@ -1,4 +1,4 @@
-name = "aetheria"
+name = "Aetheria"
 author = "xhyrom"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4d2a01c574634ff827af16231893bc1d6d46e74664b3f52a80294db7c365fae6"
+hash = "4f29a27c69f1aa18c65fb523684abe940087fdb4b443c9c042972c854337a38f"
 
 [versions]
 forge = "47.3.1"

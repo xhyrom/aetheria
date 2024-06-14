@@ -211,6 +211,11 @@ hash = "297057efca9837847ca51ec7681c3c7b2780f9498444815ef63e88b636322c92"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "5a793d8130c84c538c51a3e6a907c0ca0b5d791aba54904962567d361148724b"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "59386dc34fb313a0d549ba3671118a2e19c912bcf2a876d1db06da0f52d923ac"
 metafile = true
 
 [[files]]
@@ -408,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "7433e02661d3636e1845edf5a44d271712ed73b1035c32ecfe047452a6c39d79"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "c14b3005b4e71f9170e3ab36b66d0659911fbbaec1a64537aba1c3f2f5214b63"
 metafile = true
 
 [[files]]
@@ -591,6 +606,11 @@ hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "b5667d8296390025430b548d3f6d0d2c727cf2659f7f57f8c2b4e5d3444774f3"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
@@ -661,6 +681,11 @@ hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "93e79408df50cc9345dcdbcb36846679367428d802be8b5aa585a644fb808baf"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-ae2.pw.toml"
 hash = "c8edb578967777368c655d66a10b1cf7552dad4b443b50ac90c70807bfb81448"
 metafile = true
@@ -703,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "19fa7bbbebc37d8db487a63d79e31ad23c70a70b2c18253301cafe36f506d512"
 metafile = true
 
 [[files]]
