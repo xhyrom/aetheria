@@ -1,0 +1,13 @@
+name = "Fishermen's Trap"
+filename = "fishermens_trap-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ltRggnDx/versions/4RTVyuPY/fishermens_trap-2.1.2.jar"
+hash-format = "sha1"
+hash = "69c09d9740e94f2702a1c26c992a8869001af805"
+
+[update]
+[update.modrinth]
+mod-id = "ltRggnDx"
+version = "4RTVyuPY"

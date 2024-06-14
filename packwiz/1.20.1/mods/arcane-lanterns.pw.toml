@@ -1,0 +1,13 @@
+name = "Arcane Lanterns"
+filename = "ArcaneLanterns-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NvlReHlC/versions/5GHcs00N/ArcaneLanterns-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "61192abdc7a6fb01aef572894f447b4875fe6432"
+
+[update]
+[update.modrinth]
+mod-id = "NvlReHlC"
+version = "5GHcs00N"

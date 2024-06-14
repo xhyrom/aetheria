@@ -1,0 +1,13 @@
+name = "Gregified Integrations"
+filename = "gregifiedintegrations-1.20.1-1.3.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqIpsuhS/versions/ypzCaUCq/gregifiedintegrations-1.20.1-1.3.10.jar"
+hash-format = "sha1"
+hash = "d4561b9329dc4a2a3d36649e3f4876e33d6a1a07"
+
+[update]
+[update.modrinth]
+mod-id = "JqIpsuhS"
+version = "ypzCaUCq"
