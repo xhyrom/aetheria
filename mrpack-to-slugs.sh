@@ -14,6 +14,7 @@ MRPACK_NAME=${MRPACK_NAME// /-}
 
 mkdir -p .cache
 rm -rf .cache/*
+rm -rf .output/*
 
 mkdir -p .output/$MRPACK_NAME
 
