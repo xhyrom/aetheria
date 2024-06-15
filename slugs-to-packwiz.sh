@@ -32,7 +32,7 @@ cd "$PACKWIZ_MODPACK_FOLDER"
 
 length=$(echo "$SLUGS" | wc -l)
 
-i=0
+i=1
 for slug in $SLUGS; do
     echo "Processing $slug ($i / $length)"
 

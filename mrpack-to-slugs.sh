@@ -25,7 +25,7 @@ chmod 755 .cache/$MRPACK_NAME/modrinth.index.json
 
 # Get the slugs
 length=$(jq -r '.files | length' .cache/$MRPACK_NAME/modrinth.index.json)
-i=0
+i=1
 jq -r '.files[] | .downloads[0]' .cache/$MRPACK_NAME/modrinth.index.json | while read -r url; do
     project_id=$(echo $url | cut -d'/' -f5)
 
