@@ -1,0 +1,13 @@
+name = "Dangerous Stone Cutter"
+filename = "dangerousstonecutter-forge-mc1.19.4-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jSFfBGeF/versions/jGhax5lY/dangerousstonecutter-forge-mc1.19.4-1.8.0.jar"
+hash-format = "sha1"
+hash = "2499549dd9f5aaa3dc9f776c94861f6432cec897"
+
+[update]
+[update.modrinth]
+mod-id = "jSFfBGeF"
+version = "jGhax5lY"

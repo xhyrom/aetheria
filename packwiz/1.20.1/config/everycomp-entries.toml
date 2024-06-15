@@ -38,6 +38,9 @@
 		[types.wood_type.betterarcheology]
 			rotten = true
 
+		[types.wood_type.meadow]
+			pine = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -88,6 +91,9 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
+
+		[types.leaves_type.meadow]
+			pine = true
 
 #Disables specific entries
 [entries]

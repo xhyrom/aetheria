@@ -1,4 +1,4 @@
-const AD_ASTRA_REMOVED_PLATES = ["steel"];
+const AD_ASTRA_REMOVED_PLATES = ["steel", "iron"];
 
 const AD_ASTRA_REMOVED_RODS = ["steel"];
 

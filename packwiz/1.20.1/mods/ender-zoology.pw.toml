@@ -1,0 +1,13 @@
+name = "Ender Zoology"
+filename = "EnderZoology-v8.0.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/uA0OpHqs/EnderZoology-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "4ff1ca987ec00e63937d9aab2e886cfdb18e4a5b"
+
+[update]
+[update.modrinth]
+mod-id = "CUQhzQjg"
+version = "uA0OpHqs"

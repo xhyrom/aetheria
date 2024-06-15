@@ -50,6 +50,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
   "gtceu": {
     "recipe_logic_provider": true,
     "workable_provider": true,
@@ -66,13 +71,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
   },
   "gravestone": {
     "grave": true
