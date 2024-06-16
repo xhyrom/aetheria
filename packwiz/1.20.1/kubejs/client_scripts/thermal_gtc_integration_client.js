@@ -39,15 +39,15 @@ const THERMAL_REMOVED_NUGGETS = [
 ];
 
 JEIEvents.hideItems((event) => {
-  REMOVED_PLATES.forEach((metal) => {
+  THERMAL_REMOVED_PLATES.forEach((metal) => {
     event.hide(`thermal:${metal}_plate`);
   });
 
-  REMOVED_GEARS.forEach((metal) => {
+  THERMAL_REMOVED_GEARS.forEach((metal) => {
     event.hide(`thermal:${metal}_gear`);
   });
 
-  REMOVED_NUGGETS.forEach((metal) => {
+  THERMAL_REMOVED_NUGGETS.forEach((metal) => {
     event.hide(`thermal:${metal}_nugget`);
   });
 });
