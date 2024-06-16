@@ -391,6 +391,11 @@ hash = "21b14c54b6ab889ee048f894ef0de763fbb406fa1c2e11fe178442db70e00813"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
