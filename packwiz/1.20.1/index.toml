@@ -541,6 +541,11 @@ hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "14fe03952c7447438394a34c9a4aaf4c062645dfd1512ac35f8f0ce580855185"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
