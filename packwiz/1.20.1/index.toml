@@ -426,11 +426,6 @@ hash = "d80a7df0d6d2c6a90c57a7266f89c1f75d298251203f7fe0520d16e3616ffeeb"
 metafile = true
 
 [[files]]
-file = "mods/ender-zoology.pw.toml"
-hash = "104cbbbc6578fab1022d9e2d5e938a46d0d3a320bf5196671e5b8438e8141e1f"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
