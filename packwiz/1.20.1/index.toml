@@ -31,6 +31,11 @@ hash = "ceccf1ee8d617a20354fbdd01e8b1bc1e542612eb3736b935ac22ccde65dab9d"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "c6c5fabf7c0d3e4b32a550c8b8f7d828823faaa06abb693260e472ade6f5b63b"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "34b19d5e2f564339152197ab80c46252a7f1dfc8cdb221af8388001689ed6379"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
+metafile = true
+
+[[files]]
+file = "mods/aether-delight.pw.toml"
+hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
 metafile = true
 
 [[files]]
@@ -431,6 +441,11 @@ hash = "83443976a36797860a9d9e9e762f59455c3303ea7ec0372200826fba112b2550"
 metafile = true
 
 [[files]]
+file = "mods/exotic-birds.pw.toml"
+hash = "62b01a3d13dd782c25985ae5b70b62561af2d1681423a8f9a6a21ba155af97c4"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "57824f69d1832dc2f6a98c48c784a7f7f080a111cf2be3329ed36cd502f2c6d9"
 metafile = true
@@ -483,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "b1bd52732b6a50ea4e1db3eec1428cf78bc86d80ab97ba136b89f5cc4ac92a17"
 metafile = true
 
 [[files]]
@@ -746,6 +766,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "b9da61a5236a6f5533dcb3eb82f10912be9c00f53a5ca7e3dca6f996005e5797"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
 metafile = true
@@ -846,6 +871,16 @@ hash = "1e12aff4f9b9381484f7df9d72703c869c38c9470c30aeda32d7c4d945cbe66d"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "e4ab43d334081c68d199162c9a5da630b667d693a782464ed1bd01d21887f867"
 metafile = true
@@ -883,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "9a4a91161fe07c1d6ddbaf4e304572d7c5157ebc51ff16badc338a0bab92d2bb"
+metafile = true
+
+[[files]]
+file = "mods/taxstructurearchitect.pw.toml"
+hash = "eb4ddd47c872bef9b2d7967715f027fd8a5df8820d59849c20cecac13fbee91a"
 metafile = true
 
 [[files]]
