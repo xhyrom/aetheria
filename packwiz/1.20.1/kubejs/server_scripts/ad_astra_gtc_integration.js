@@ -1,10 +1,10 @@
-const AD_ASTRA_REMOVED_PLATE_RECIPES = ["steel", "iron"];
-
-const AD_ASTRA_REMOVED_ROD_RECIPES = ["steel"];
-
-const AD_ASTRA_REMOVED_NUGGET_RECIPES = ["steel"];
-
 ServerEvents.recipes((event) => {
+  const AD_ASTRA_REMOVED_PLATE_RECIPES = ["steel", "iron"];
+
+  const AD_ASTRA_REMOVED_ROD_RECIPES = ["steel"];
+
+  const AD_ASTRA_REMOVED_NUGGET_RECIPES = ["steel"];
+
   // Remove Ad Astra recipes for plates
   AD_ASTRA_REMOVED_PLATE_RECIPES.forEach((metal) => {
     event.remove({
