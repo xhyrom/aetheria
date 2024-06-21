@@ -1,13 +1,13 @@
 name = "Alex's Mobs Interaction"
-filename = "alexsmobsinteraction-3.2-all.jar"
+filename = "alexsmobsinteraction-3.3.1-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cQPcBgTD/versions/rea5DSAW/alexsmobsinteraction-3.2-all.jar"
+url = "https://cdn.modrinth.com/data/cQPcBgTD/versions/nihzPFax/alexsmobsinteraction-3.3.1-all.jar"
 hash-format = "sha1"
-hash = "625da8b5f8a3b8b16d430cf749130741b982c200"
+hash = "7f609bc87ded6a2bacb9ce4c1068dc7d5950f5f0"
 
 [update]
 [update.modrinth]
 mod-id = "cQPcBgTD"
-version = "rea5DSAW"
+version = "nihzPFax"
