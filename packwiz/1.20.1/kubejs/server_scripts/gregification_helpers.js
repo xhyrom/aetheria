@@ -53,3 +53,23 @@ function gregifyDoorRecipe(event, recipePattern, id, materials) {
     B: "#forge:tools/saws",
   });
 }
+
+function gregifyTrapdoorRecipe(event, recipePattern, id, materials) {
+  const [identifier, name] = id.split(":");
+  const type = idToType(id);
+
+  event.remove({
+    id: recipePattern
+      .replace("<identifier>", identifier)
+      .replace("<name>", name)
+      .replace("<type>", type),
+  });
+
+  if (!materials) materials = [];
+  if (materials.length === 0) materials.push(`${identifier}:${type}_slab`);
+
+  event.shaped(Item.of(id, 1), ["WSW", "SSS", "WSW"], {
+    W: materials[0],
+    S: materials[1] || "minecraft:stick",
+  });
+}
