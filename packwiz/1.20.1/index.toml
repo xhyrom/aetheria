@@ -591,6 +591,11 @@ hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "637c9f80eac8021422cec8d539fea2ba09728430b2c3cca50b8ca155cbd559fe"
+metafile = true
+
+[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "7870e7d4b9a9ad45912f7adb35ae6103d006ea21bacd058a006f266a9fa89db0"
 metafile = true
@@ -963,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "2218fa5e3f7810ac64478809fe3b6d7bd7e80fabe0491f5bd2a008fb64919670"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "8f558a6a66f8b7e4f194a1a3d9fc32ad143c1c18756e7c86534621edac752d8c"
 metafile = true
 
 [[files]]
