@@ -841,6 +841,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/seasonal-lets-do.pw.toml"
+hash = "69e9ed32bd82b7f2e3ecfe24cd2d7255a63e1831a14ed3e3d3a9242da855c0e9"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
 metafile = true
