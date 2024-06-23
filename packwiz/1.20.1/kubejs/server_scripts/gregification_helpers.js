@@ -73,3 +73,23 @@ function gregifyTrapdoorRecipe(event, recipePattern, id, materials) {
     S: materials[1] || "minecraft:stick",
   });
 }
+
+function gregifyButtonRecipe(event, recipePattern, id, materials) {
+  const [identifier, name] = id.split(":");
+  const type = idToType(id);
+
+  event.remove({
+    id: recipePattern
+      .replace("<identifier>", identifier)
+      .replace("<name>", name)
+      .replace("<type>", type),
+  });
+
+  if (!materials) materials = [];
+  if (materials.length === 0) materials.push(`${identifier}:${type}_planks`);
+
+  event.shaped(Item.of(id, 6), ["   ", "SW ", "   "], {
+    W: materials[0],
+    S: materials[1] || "#forge:tools/saws",
+  });
+}
