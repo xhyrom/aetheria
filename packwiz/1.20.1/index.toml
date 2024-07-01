@@ -251,6 +251,11 @@ hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
 metafile = true
