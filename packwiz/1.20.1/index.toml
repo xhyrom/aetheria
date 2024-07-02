@@ -1106,6 +1106,11 @@ hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/gregtech-refreshed.pw.toml"
+hash = "97b8eed435efe223de9b97cfa53be65897ce321c886d8d3ac3407a4a37bef185"
+metafile = true
+
+[[files]]
 file = "shaderpacks/potato-shaders.pw.toml"
 hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true
