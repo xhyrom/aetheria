@@ -25,4 +25,6 @@ ServerEvents.recipes((event) => {
     "regions_unexplored:willow_door",
     "regions_unexplored:yellow_bioshroom_door",
   ].forEach((d) => gregifyDoorRecipe(event, "<identifier>:<name>", d));
+
+  event.remove({ id: "regions_unexplored:oak_door" });
 });
