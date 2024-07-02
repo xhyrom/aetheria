@@ -906,6 +906,11 @@ hash = "0226ecadb12bb3ecfb3b5508766352348d906fccf8b1144972a9e72f6ff79bb1"
 metafile = true
 
 [[files]]
+file = "mods/stellarview.pw.toml"
+hash = "bf0f072591911088a4c769165f71f2a7d975394a3deb4f10749e61866c91a72e"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
 metafile = true
