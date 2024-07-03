@@ -1036,8 +1036,8 @@ hash = "291b739cd1f5c3faa1d9c7de0ef3b414f479dfd71ef6c0eed4f79eeba4514ac3"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "9aa181232e50e02c01758f7c4d9293090bdd6c405224edb3a867f59ba9615af1"
+file = "mods/valhelsia-structures.pw.toml"
+hash = "39a245571d0bf349aec62d6d39720e9ecfb3a90db9d1b2abe82785633680778c"
 metafile = true
 
 [[files]]
