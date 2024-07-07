@@ -25,7 +25,7 @@ ServerEvents.recipes((event) => {
     "electrum",
     "lapis",
     "emerald",
-    //"quartz"
+    "diamond",
   ];
 
   const REMOVED_NUGGET_RECIPES = [
