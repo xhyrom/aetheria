@@ -5511,11 +5511,6 @@ hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
 metafile = true
 
 [[files]]
-file = "mods/aether-delight.pw.toml"
-hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
-metafile = true
-
-[[files]]
 file = "mods/aether-emissivity.pw.toml"
 hash = "6ddcd2a9e3e0ae70a134757b084b9a0453d24cf8247bc306599866d9f802c62c"
 metafile = true
