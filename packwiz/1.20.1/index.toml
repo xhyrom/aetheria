@@ -6071,6 +6071,11 @@ hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "7a7f0016536b0763ce3f7c3d3062a094673a63196e95356107768c431f1b7102"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
 metafile = true
